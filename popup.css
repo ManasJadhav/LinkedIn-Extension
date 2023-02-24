@@ -1,0 +1,34 @@
+.mainDiv{
+    display: grid; 
+    padding: 1rem; 
+    background-color: #1E3A8A; 
+    width: 16rem; 
+}
+
+.headingSection{
+    margin-bottom: 0.5rem; 
+    color: #ffffff; 
+    font-size: 1.125rem;
+    line-height: 1.75rem; 
+    text-align: center; 
+    text-transform: uppercase; 
+}
+
+.numberSection{
+    color: #ffffff; 
+    font-size: 2.25rem;
+    line-height: 2.5rem; 
+    text-align: center; 
+    text-transform: uppercase; 
+}
+
+.mainButton{
+    padding: 1.25rem; 
+    margin-top: 0.75rem; 
+    background-color: #7C3AED; 
+    color: #ffffff; 
+    font-size: 1.125rem;
+    line-height: 1.75rem; 
+    text-transform: uppercase; 
+    border-radius: 0.125rem; 
+}
