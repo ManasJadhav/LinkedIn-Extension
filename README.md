@@ -36,7 +36,7 @@ Click on Load unpacked and upload the cloned folder.
 
 This Extension is written in HTML , CSS , JS.
 
-We need to inject the script in the active tab for which we use "Chrome.scripting.excuteScript" on the current Tab 
+We need to inject the script in the active tab for which we use ``` Chrome.scripting.excuteScript ``` on the current Tab 
 
 This takes 2 parameters that is 
     
@@ -44,6 +44,6 @@ This takes 2 parameters that is
 
     2. Files = file that we inject.
 
-whenever we click on the button that script is injected and the fuctions written in the files run.
+whenever we click on the button the script is injected and the functions written in the files run.
 
 We have used setTimeout functions to delay the functions till UI changes are complete.
